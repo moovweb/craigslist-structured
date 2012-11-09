@@ -1,6 +1,8 @@
 // Reset file for standardizing the page
 // @import "globals/_reset";
 
+@import "globals/_sprites";
+
 // Base file contains all the global styles
 @import "globals/_base";
 
@@ -10,3 +12,5 @@
 
 // Pages
 @import "pages/_home";
+@import "pages/_listing";
+@import "pages/_item";
